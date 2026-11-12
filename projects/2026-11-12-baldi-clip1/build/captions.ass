@@ -1,0 +1,54 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Inter Black,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,9,4,8,80,80,280,1
+Style: Cap,Inter Black,76,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,8,3,2,180,180,790,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:33.35,Title,,0,0,0,,{\fad(0,0)}ELE PERDEU A\N{\c&H0000D7FF&}PACIÊNCIA
+Dialogue: 1,0:00:00.18,0:00:00.81,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}VAI!
+Dialogue: 1,0:00:00.82,0:00:01.10,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}VIROU A
+Dialogue: 1,0:00:01.10,0:00:01.80,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}ESQUERDA?
+Dialogue: 1,0:00:01.80,0:00:02.46,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}AH {\c&H0000D7FF&}NÃO{\c&HFFFFFF&}
+Dialogue: 1,0:00:02.46,0:00:02.84,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}{\c&H0000D7FF&}NÃO{\c&HFFFFFF&}
+Dialogue: 1,0:00:02.84,0:00:03.08,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}AH
+Dialogue: 1,0:00:03.08,0:00:03.62,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}CARA
+Dialogue: 1,0:00:03.62,0:00:04.00,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}{\c&H0000D7FF&}NÃO!{\c&HFFFFFF&}
+Dialogue: 1,0:00:04.00,0:00:04.48,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}QUAL QUE É
+Dialogue: 1,0:00:04.48,0:00:05.29,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}A CH—
+Dialogue: 1,0:00:07.34,0:00:08.12,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}{\c&H0000D7FF&}NÃO{\c&HFFFFFF&} CARA
+Dialogue: 1,0:00:08.12,0:00:08.52,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}{\c&H0000D7FF&}CHEGA{\c&HFFFFFF&}
+Dialogue: 1,0:00:08.52,0:00:08.96,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}{\c&H0000D7FF&}CHEGA{\c&HFFFFFF&}
+Dialogue: 1,0:00:08.96,0:00:09.24,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}EU PERDI
+Dialogue: 1,0:00:09.24,0:00:09.64,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}COMPLETAMENTE
+Dialogue: 1,0:00:09.64,0:00:10.80,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}MINHA {\c&H0000D7FF&}PACIÊNCIA{\c&HFFFFFF&}
+Dialogue: 1,0:00:10.80,0:00:11.72,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}EU SINTO MUITO
+Dialogue: 1,0:00:11.72,0:00:12.46,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}EU TÔ QUEBRANDO
+Dialogue: 1,0:00:12.46,0:00:13.18,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}ESSA
+Dialogue: 1,0:00:13.18,0:00:13.70,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}{\c&H0000D7FF&}BALDI{\c&HFFFFFF&}
+Dialogue: 1,0:00:13.70,0:00:14.30,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}SAI DA FRENTE
+Dialogue: 1,0:00:14.30,0:00:15.29,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}EU
+Dialogue: 1,0:00:15.44,0:00:15.94,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}{\c&H0000D7FF&}BALDI{\c&HFFFFFF&}
+Dialogue: 1,0:00:15.94,0:00:16.40,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}SAI DA FRENTE
+Dialogue: 1,0:00:16.40,0:00:16.62,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}EU TÔ
+Dialogue: 1,0:00:16.62,0:00:17.97,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}TENTANDO
+Dialogue: 1,0:00:19.45,0:00:20.33,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}EU {\c&H0000D7FF&}NÃO{\c&HFFFFFF&} CONSIGO
+Dialogue: 1,0:00:20.33,0:00:20.99,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}QUEBRAR A {\c&H0000D7FF&}PORTA{\c&HFFFFFF&}
+Dialogue: 1,0:00:20.99,0:00:21.67,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}EU {\c&H0000D7FF&}NÃO{\c&HFFFFFF&} CONSIGO
+Dialogue: 1,0:00:21.67,0:00:22.55,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}PORQUE O {\c&H0000D7FF&}BALDI{\c&HFFFFFF&}
+Dialogue: 1,0:00:22.55,0:00:23.47,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}TODA VEZ ENTRA
+Dialogue: 1,0:00:23.47,0:00:24.40,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}NO MEIO
+Dialogue: 1,0:00:29.33,0:00:30.27,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}{\c&H0000D7FF&}PORTA{\c&HFFFFFF&} {\c&H0000D7FF&}QUEBRADA!{\c&HFFFFFF&}
+Dialogue: 1,0:00:30.27,0:00:30.53,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}AH
+Dialogue: 1,0:00:30.53,0:00:30.97,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}É SÉRIO
+Dialogue: 1,0:00:30.97,0:00:31.65,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}RAPAZIADA
+Dialogue: 1,0:00:31.65,0:00:32.17,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}FOI MAL
+Dialogue: 1,0:00:32.17,0:00:32.71,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}EU {\c&H0000D7FF&}NÃO{\c&HFFFFFF&} {\c&H0000D7FF&}AGUENTO{\c&HFFFFFF&}
+Dialogue: 1,0:00:32.71,0:00:33.35,Cap,,0,0,0,,{\fscx82\fscy82\t(0,90,\fscx100\fscy100)}{\c&H0000D7FF&}MAIS!{\c&HFFFFFF&}
